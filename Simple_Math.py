@@ -8,13 +8,13 @@ print(5 + 6) # This will print the solution of the problem
 # - does subtraction
 print(1 - 1) # This will simply print the number like above
 
-# / does divition
+# / does division
 print('2.0 / 3.0 =', 2.0 / 3) #only one nubmer needs the .0
 # the '.0' is to make python use floating point (look it up!)
 # using the , we can have multiple things in a single print function
 
 # * is for multiplication
-print('5 * 3 ='',
+print('5 * 3 =',
         5 * 3)
 # since there is a comma, we can have this print function on multiple lines
 
@@ -41,5 +41,5 @@ print(2 > 2)
 
 # notice that some print commands use "" and others use ''
 # both are valid
-# also, ther is a space between the numbers and operators, this is best pactice
+# also, there is a space between the numbers and operators, this is best pactice
 # 4 + 4 is more readable than 4+4
